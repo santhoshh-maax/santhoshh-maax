@@ -1,60 +1,53 @@
-## Hi there! 
+<h2 align="left">Future Full Stack Developer  | IoT Innovator<br><br>Hello...I’m Santhosh P, currently pursuing a B.E. in Computer Science and Engineering. I aspire to become a full-stack developer and have a strong interest in IoT-related projects. I enjoy exploring new technologies, building practical solutions, and working on innovative ideas that combine software and hardware.</h2>
 
-I’m Santhosh P, a passionate Computer Science student currently in my third year, based in Singapore. I am a Full Stack Developer with a strong interest in IoT-based projects.
+###
 
-## About Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santhoshh-maax&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=santhoshh-maax&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santhoshh-maax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-I am pursuing a Bachelor of Engineering in Computer Science & Engineering. I enjoy tackling challenges and learning new concepts in programming and software development.
+###
 
-## Skills & Technologies
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-html,css,js,react,git,github,py
+###
 
-## Top Projects
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+</div>
 
-- [santhoshh-maax](https://github.com/santhoshh-maax)
-  - Description: Personal repository showcasing my projects.
-  - ⭐️ 0 Stars | Language: Not specified
-  - Forks: 0 | Open Issues: 0
+###
 
-- [class-lab-repo](https://github.com/santhoshh-maax/class-lab-repo)
-  - Description: A repository for class-related projects and labs.
-  - ⭐️ 0 Stars | Language: Not specified
-  - Forks: 0 | Open Issues: 0
+<div align="left">
+  <a href="https://www.linkedin.com/in/santhosh-p-547721358/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:santhoshpanneer03@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/santhoshpream__/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
 
-- [placement_training_Java](https://github.com/santhoshh-maax/placement_training_Java)
-  - Description: Repository for Java placement training exercises.
-  - ⭐️ 0 Stars | Language: Not specified
-  - Forks: 0 | Open Issues: 0
+###
 
-- [m4l1_managing_a_project](https://github.com/santhoshh-maax/m4l1_managing_a_project)
-  - Description: A forked repository for managing projects from a Coursera course.
-  - ⭐️ 0 Stars | Language: Not specified
-  - Forks: 0 | Open Issues: 0
+<br clear="both">
 
-## GitHub Stats
+<img src="https://raw.githubusercontent.com/santhoshh-maax/santhoshh-maax/output/snake.svg" alt="Snake animation" />
 
-🔹 Public Repositories: 4  
-🔹 Followers: 1  
-🔹 Following: 1  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santhoshh-maax&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- Opened a PR to [class-lab-repo](https://github.com/Amit0817/class-lab-repo/pull/939) to add name and certification details.
-- Closed a PR in [class-lab-repo](https://github.com/Amit0817/class-lab-repo/pull/938).
-- Forked [class-lab-repo](https://github.com/Amit0817/class-lab-repo).
-- Pushed updates to the [repo-exercise](https://github.com/santhoshh-maax/repo-exercise) repository.
-
-## Latest Blog Posts
-
-Currently, I do not have any blog posts to share.
-
-## Connect with Me
-
-{}
-
-## Certifications
-
-- [Certification Name](link-to-certificate) - Issuing organization, Year
+###
