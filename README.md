@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">✨ Served as a Combat Medic in the Singapore Armed Forces for 2 years  <br>📡 Got interested in IoT projects and love working with hardware  <br>🌱 Built an automatic plant monitoring system  <br>📱 Developed two apps — a To-Do app and a plant monitoring app  <br>📚 Currently learning Flutter  <br>🏥 Working on a nursing-related IoT project for my college</p>
+<p align="left">✨ Served as a Combat Medic in the Singapore Armed Forces for 2 years  <br>📡 Got interested in IoT projects and love working with hardware  <br>🌱 Built an automatic plant monitoring system  <br>📱 Developed two apps — a To-Do app and a plant monitoring app  <br>📚 Currently learning Full Stack,java,Flutter  <br>🏥 Working on a nursing-related IoT project for my college</p>
 
 ###
 
