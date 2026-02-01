@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">Front End Developer | IoT Innovator<br><br>I’m Santhosh, currently pursuing a B.E. in Computer Science and Engineering. I aspire to become a full-stack developer and have a strong interest in IoT-related projects. I enjoy exploring new technologies, building practical solutions, and working on innovative ideas that combine software and hardware.</h1>
+<h1 align="center">Front End Developer | IoT Innovator | Intrested in Robotics and Automation <br><br>I’m Santhosh, currently pursuing a B.E. in Computer Science and Engineering. I aspire to become a Automation Engineer and have a strong interest in IoT-related projects. I enjoy exploring new technologies, building practical solutions, and working on innovative ideas that combine software and hardware.</h1>
 
 ###
 
