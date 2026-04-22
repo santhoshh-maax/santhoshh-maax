@@ -22,14 +22,19 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=santhoshh-maax.santhoshh-maax&"  />
 </div>
 
-###
-<h1 Download my App here </h1>
-  <h3 https://santhoshh-maax.github.io/todo-s-lah-v1/ </h3>
-###
-  ###
-<h1 align="center">Front End Developer | IoT Innovator | Intrested in Robotics and Automation <br><br>I’m Santhosh, currently pursuing a B.E. in Computer Science and Engineering. I aspire to become a Automation Engineer and have a strong interest in IoT-related projects. I enjoy exploring new technologies, building practical solutions, and working on innovative ideas that combine software and hardware.</h1>
+<div align="center">
+  <h1>🚀 Download my App</h1>
+  <a href="https://santhoshh-maax.github.io/todo-s-lah-v1/" target="_blank">
+    <img src="https://img.shields.io/badge/Check%20Out-Todo's%20Lah-blue?style=for-the-badge&logo=appstore&logoColor=white" height="40" alt="Landing Page Link" />
+  </a>
+  <br>
+  <p><i>Official landing page for Todo's Lah | SP apps</i></p>
+</div>
 
 ###
+
+<h1 align="center">Front End Developer | IoT Innovator | Interested in Robotics and Automation</h1>
+<p align="center">I’m <b>Santhosh Panneer Selvam</b>, a B.E. Computer Science student aspiring to be an Automation Engineer. I bridge the gap between software and hardware through innovative IoT solutions.</p>
 
 <h3 align="left">About me</h3>
 
