@@ -88,7 +88,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="Arduino" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="60" alt="aws" />
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="60" alt="AWS" />
 </div>
 
 ###
