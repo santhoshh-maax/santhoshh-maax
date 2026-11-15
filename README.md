@@ -92,12 +92,22 @@
 
 ###
 
-<h3 align="left">☁️ Cloud & Certifications</h3>
+ <h3 align="left">🏅 AWS Certifications</h3>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/AWS-Certified%20Data%20Engineer--Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Data Engineer Associate" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Technologies-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+<div align="center">
+  <a href="https://www.credly.com/badges/d4df2afa-c578-4e9c-97f8-857c2f0f5f37/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Certified%20Data%20Engineer--Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Data Engineer Associate" />
+  </a>
+  <a href="https://www.credly.com/badges/1d690d53-7396-47c7-90c7-fb2fe14cd98c/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner" />
+  </a>
 </div>
+
+<p align="center">
+  <i>Verify my certifications by clicking the badges above.</i>
+</p>
+
+###
 
 ###
 
