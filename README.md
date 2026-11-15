@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/santhosh-p-547721358/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   <a href="mailto:santhoshpanneer03@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/santhosh_ps22/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
   </a>
 </div>
 
@@ -38,7 +38,7 @@
 <h1 align="center">Forward Deployed Engineer | Data Engineering | IoT Enthusiast</h1>
 
 <p align="center">
-  I'm <b>Santhosh Panneer Selvam</b>, a B.E. Computer Science student passionate about building technology-driven solutions. Currently working as a <b>Forward Deployed Engineer Intern at Glacien.ai</b>, exploring data engineering, cloud technologies, and real-world software solutions.
+  I'm <b>Santhosh Panneer Selvam</b>, a B.E. Computer Science and Engineering student passionate about technology, cloud computing, and building innovative solutions. Currently working as a <b>Forward Deployed Engineer Intern at Glacien.ai</b>, with interests in Data Engineering, AWS, IoT, Robotics, and Automation.
 </p>
 
 ###
@@ -51,7 +51,7 @@
 - 🏅 AWS Certified Data Engineer – Associate.
 - 🤖 Passionate about IoT, Robotics, and Automation.
 - 🔧 Enjoy building solutions that connect software and hardware.
-- 📱 Experienced in developing applications using Flutter and Node.js.
+- 📱 Experienced in application development using Flutter and Node.js.
 - 🇸🇬 Served in the Singapore Armed Forces for 2 years.
 
 ###
@@ -61,53 +61,53 @@
 **Forward Deployed Engineer Intern | Glacien.ai**
 
 - Working as a Forward Deployed Engineer Intern.
-- Exploring cloud-based technologies and data engineering.
-- Gaining practical exposure to engineering solutions and real-world technical workflows.
+- Gaining hands-on experience in data engineering and cloud technologies.
+- Exploring engineering solutions through practical technical workflows.
 
 ###
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="left">🛠️ Languages and Tools</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="GitHub" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="Arduino" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="60" alt="aws" />
 </div>
 
 ###
 
- <h3 align="left">🏅 AWS Certifications</h3>
+<h3 align="left">☁️ AWS Certifications</h3>
 
 <div align="center">
   <a href="https://www.credly.com/badges/d4df2afa-c578-4e9c-97f8-857c2f0f5f37/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-Certified%20Data%20Engineer--Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Data Engineer Associate" />
+    <img src="https://img.shields.io/badge/AWS-Certified%20Data%20Engineer--Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="45" alt="AWS Certified Data Engineer Associate" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/1d690d53-7396-47c7-90c7-fb2fe14cd98c/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner" />
+    <img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="45" alt="AWS Certified AI Practitioner" />
   </a>
 </div>
 
 <p align="center">
   <i>Verify my certifications by clicking the badges above.</i>
 </p>
-
-###
 
 ###
 
